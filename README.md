@@ -9,7 +9,7 @@
 
 ## Class Diagram
 
-![image](https://github.com/user-attachments/assets/c9e3e5c1-947e-48ea-9380-6316679e3716)
+![image](https://github.com/user-attachments/assets/5887a1ca-9585-4539-b8f7-3c0108dacfa6)
 
 
 
